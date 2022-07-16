@@ -1,0 +1,20 @@
+Datos base de datos TiendaLibros
+
+{
+	"Título":"Narnia el sobrino del mago"
+}
+
+{
+	"Título":"Orgullo y Prejuicio"
+}
+
+Dato base de datos Cine
+
+{
+"Pelicula":"Thor:Amor y Trueno"
+}
+
+{
+
+"Pelicula": "Minions 2: Nace un Villano"
+}
